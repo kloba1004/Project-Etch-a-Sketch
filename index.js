@@ -23,7 +23,7 @@ function createGrid(squareNumber) {
     });
 }
 
-createGrid(15);
+createGrid(5);
 
 let button = document.querySelector('.button');
 button.addEventListener('click', () => {
