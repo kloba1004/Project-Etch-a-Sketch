@@ -23,7 +23,6 @@ function createGrid(squareNumber) {
     });
 }
 
-
 createGrid(5);
 
 let button = document.querySelector('.button');
